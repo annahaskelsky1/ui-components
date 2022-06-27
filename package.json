@@ -1,6 +1,6 @@
 {
   "name": "@annahaskelsky1/ui-components",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "scripts": {
     "storybook": "start-storybook -p 6006",
