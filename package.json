@@ -1,5 +1,5 @@
 {
-  "name": "continueai-components1",
+  "name": "@annahaskelsky1/ui-components",
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -35,5 +35,8 @@
   "module": "dist/esm/index.js",
   "files": [
     "dist"
-  ]
+  ],
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/annahaskelsky1"
+  }
 }
