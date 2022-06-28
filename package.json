@@ -1,6 +1,6 @@
 {
   "name": "@annahaskelsky1/ui-components",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "scripts": {
     "storybook": "start-storybook -p 6006",
@@ -24,6 +24,7 @@
     "babel-loader": "^8.2.5",
     "prop-types": "^15.8.1",
     "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "rollup": "^2.75.7"
   },
   "dependencies": {

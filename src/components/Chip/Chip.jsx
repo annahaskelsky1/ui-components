@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Chip = () => {
-  return <button>Hi</button>
+  return <div>Chip</div>
 }
 
 export default Chip
